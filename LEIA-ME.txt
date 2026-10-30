@@ -1,0 +1,9 @@
+ESQUADRÃO ÉTER — COMO INSTALAR NO IPHONE
+
+1. Suba esta pasta inteira para um site gratuito com HTTPS (veja as opções na conversa).
+2. No iPhone, abra o endereço no Safari.
+3. Toque em Compartilhar > Adicionar à Tela de Início.
+4. Abra pelo ícone. Na primeira vez precisa de internet; depois funciona offline.
+
+Arquivos: index.html (jogo), three.module.min.js (motor 3D), sw.js (modo offline),
+manifest.webmanifest + ícones (aparência do app).
